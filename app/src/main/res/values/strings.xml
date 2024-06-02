@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Menu Esporte</string>
+    <string name="jogador">Jogador</string>
+    <string name="time">Time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app">App Esporte</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="codigo">Código</string>
+    <string name="nome">Nome</string>
+    <string name="cidade">Cidade</string>
+    <string name="dtNascimento">Data Nascimento</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="inserir">Inserir</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Editar">Editar</string>
+    <string name="Excluir">Excluir</string>
+    <string name="Listar">Listar</string>
+    <string name="nsei">nsei</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
